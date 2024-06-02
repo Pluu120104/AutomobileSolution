@@ -13,6 +13,5 @@ namespace AutomobileLibrary.BussinessObject
         public string Manufacturer { get; set; }
         public decimal Price { get; set; }
         public int ReleaseYear { get; set; }
-        public DateTime ReleaseDate { get; set; }
     }
 }
